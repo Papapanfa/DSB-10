@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fa1b31ba-0aec-4e47-a308-d10c951b8b8f)# DSB-10
+# DSB-10
 My data science and analytics projects
 
 # My personal projects
